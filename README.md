@@ -14,14 +14,14 @@ The CPU follows the RISC (Reduced Instruction Set Computer) style, meaning it us
 
 It also has a stalling system that pauses the CPU when data isn't ready (like during a memory delay), so the program doesn't crash or run incorrectly.  
 
-# 🛠 Tools Used  
-Logisim
+# Tools Used  
+Logisim  
 Python – to create an assembler that loads instructions into memory  
 
 # Achievement  
 The design improvements led to a 20% increase in processing speed, which made it faster and more reliable for running test programs.  
   
-# Refer to the /results folder for images of the final design.  
+Refer to the /results folder for images of the final design.  
 
-# Note:  
+# Note  
 The source code is not publicly included due to privacy and academic integrity reasons. If you're interested in the implementation or want to discuss the design, feel free to reach out.
