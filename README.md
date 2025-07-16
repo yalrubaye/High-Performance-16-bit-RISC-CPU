@@ -19,7 +19,7 @@ Logisim
 Python – to create an assembler that loads instructions into memory  
 
 # Achievement  
-The design improvements led to a 20% increase in processing speed, which made it faster and more reliable for running test programs.  
+The design improvements led to a 20% increase in processing speed, which made it faster for running test programs.  
   
 Refer to the /results folder for images of the final design.  
 
